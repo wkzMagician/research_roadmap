@@ -1,5 +1,5 @@
 repository:
-  visibility: private
+  visibility: public
 
 branches:
   main:
