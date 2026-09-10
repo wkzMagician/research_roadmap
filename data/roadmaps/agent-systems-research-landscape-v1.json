@@ -1,0 +1,1157 @@
+{
+  "meta": {
+    "id": "agent-systems-research-landscape-v1",
+    "title": "Agent Systems 科研探索图谱"
+  },
+  "resources": [
+    {
+      "id": "react",
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "url": "https://arxiv.org/abs/2210.03629",
+      "read": false
+    },
+    {
+      "id": "voyager",
+      "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+      "url": "https://arxiv.org/abs/2305.16291",
+      "read": false
+    },
+    {
+      "id": "toolformer",
+      "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+      "url": "https://arxiv.org/abs/2302.04761",
+      "read": false
+    },
+    {
+      "id": "tau-bench",
+      "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+      "url": "https://arxiv.org/abs/2406.12045",
+      "read": false
+    },
+    {
+      "id": "reflexion",
+      "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2303.11366",
+      "read": false
+    },
+    {
+      "id": "self-refine",
+      "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+      "url": "https://arxiv.org/abs/2303.17651",
+      "read": false
+    },
+    {
+      "id": "tree-of-thoughts",
+      "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+      "url": "https://arxiv.org/abs/2305.10601",
+      "read": false
+    },
+    {
+      "id": "agentbench",
+      "title": "AgentBench: Evaluating LLMs as Agents",
+      "url": "https://arxiv.org/abs/2308.03688",
+      "read": false
+    },
+    {
+      "id": "swe-bench",
+      "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+      "url": "https://arxiv.org/abs/2310.06770",
+      "read": false
+    },
+    {
+      "id": "osworld",
+      "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+      "url": "https://arxiv.org/abs/2404.07972",
+      "read": false
+    },
+    {
+      "id": "sock",
+      "title": "SOCK: Rapid Task Provisioning with Serverless-Optimized Containers",
+      "url": "https://www.usenix.org/conference/atc18/presentation/oakes",
+      "read": true
+    },
+    {
+      "id": "firecracker",
+      "title": "Firecracker: Lightweight Virtualization for Serverless Applications",
+      "url": "https://www.usenix.org/conference/nsdi20/presentation/agache",
+      "read": false
+    },
+    {
+      "id": "seuss",
+      "title": "SEUSS: Rapid Serverless Deployment Using Environment Snapshots",
+      "url": "https://arxiv.org/abs/1910.01558",
+      "read": false
+    },
+    {
+      "id": "crab",
+      "title": "Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes",
+      "url": "https://arxiv.org/abs/2604.28138",
+      "read": false
+    },
+    {
+      "id": "reap",
+      "title": "Benchmarking, Analysis, and Optimization of Serverless Function Snapshots (REAP)",
+      "url": "https://arxiv.org/abs/2101.09355",
+      "read": false
+    },
+    {
+      "id": "pond",
+      "title": "Pond: CXL-Based Memory Pooling Systems for Cloud Platforms",
+      "url": "https://www.microsoft.com/en-us/research/publication/pond-cxl-based-memory-pooling-systems-for-cloud-platforms/",
+      "read": false
+    },
+    {
+      "id": "faasm",
+      "title": "Faasm: Lightweight Isolation for Efficient Stateful Serverless Computing",
+      "url": "https://www.usenix.org/conference/atc20/presentation/shillaker",
+      "read": false
+    },
+    {
+      "id": "car",
+      "title": "CAR: Empowering Agents with Dynamic Tool Synthesis and Global Trajectory Rectification",
+      "url": "https://aclanthology.org/2026.findings-acl.869/",
+      "read": false
+    },
+    {
+      "id": "llm-security-principles",
+      "title": "LLM Agents Should Employ Security Principles",
+      "url": "https://arxiv.org/abs/2505.24019",
+      "read": false
+    },
+    {
+      "id": "capability-gates",
+      "title": "Capability Gates Are Not Authorization: Confused-Deputy Failures in LLM Agent Frameworks",
+      "url": "https://arxiv.org/abs/2606.28679",
+      "read": false
+    },
+    {
+      "id": "storm",
+      "title": "Multi-agent Collaboration with State Management (STORM)",
+      "url": "https://arxiv.org/abs/2605.20563",
+      "read": false
+    },
+    {
+      "id": "swe-gym",
+      "title": "Training Software Engineering Agents and Verifiers with SWE-Gym",
+      "url": "https://arxiv.org/abs/2412.21139",
+      "read": false
+    },
+    {
+      "id": "agentgym",
+      "title": "AgentGym: Evaluating and Training Large Language Model-based Agents across Diverse Scenarios",
+      "url": "https://arxiv.org/abs/2406.04151",
+      "read": false
+    },
+    {
+      "id": "prorl-agent",
+      "title": "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents",
+      "url": "https://arxiv.org/abs/2603.18815",
+      "read": false
+    },
+    {
+      "id": "specbox",
+      "title": "SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving",
+      "url": "https://arxiv.org/abs/2607.23933",
+      "read": false
+    },
+    {
+      "id": "tps-bench",
+      "title": "TPS-Bench: Evaluating AI Agents' Tool Planning & Scheduling Abilities in Compounding Tasks",
+      "url": "https://aclanthology.org/2026.acl-long.1614/",
+      "read": false
+    },
+    {
+      "id": "paste",
+      "title": "Act While Thinking: Accelerating LLM Agents via Pattern-Aware Speculative Tool Execution",
+      "url": "https://arxiv.org/abs/2603.18897",
+      "read": false
+    },
+    {
+      "id": "async-tool-usage",
+      "title": "Asynchronous Tool Usage for Real-Time Agents",
+      "url": "https://arxiv.org/abs/2410.21620",
+      "read": false
+    },
+    {
+      "id": "asynctool",
+      "title": "AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios",
+      "url": "https://arxiv.org/abs/2605.27995",
+      "read": false
+    },
+    {
+      "id": "speculative-actions",
+      "title": "Speculative Actions: A Lossless Framework for Faster Agentic Systems",
+      "url": "https://arxiv.org/abs/2510.04371",
+      "read": false
+    },
+    {
+      "id": "llmlingua",
+      "title": "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models",
+      "url": "https://aclanthology.org/2023.emnlp-main.825/",
+      "read": false
+    },
+    {
+      "id": "longllmlingua",
+      "title": "LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression",
+      "url": "https://aclanthology.org/2024.acl-long.91/",
+      "read": false
+    },
+    {
+      "id": "prompt-cache",
+      "title": "Prompt Cache: Modular Attention Reuse for Low-Latency Inference",
+      "url": "https://proceedings.mlsys.org/paper_files/paper/2024/hash/a66caa1703fe34705a4368c3014c1966-Abstract-Conference.html",
+      "read": false
+    },
+    {
+      "id": "cacheblend",
+      "title": "CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion",
+      "url": "https://arxiv.org/abs/2405.16444",
+      "read": false
+    },
+    {
+      "id": "snapkv",
+      "title": "SnapKV: LLM Knows What You are Looking for Before Generation",
+      "url": "https://arxiv.org/abs/2404.14469",
+      "read": false
+    },
+    {
+      "id": "pyramidkv",
+      "title": "PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling",
+      "url": "https://arxiv.org/abs/2406.02069",
+      "read": false
+    },
+    {
+      "id": "minference",
+      "title": "MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention",
+      "url": "https://www.microsoft.com/en-us/research/publication/minference-1-0-accelerating-pre-filling-for-long-context-llms-via-dynamic-sparse-attention/?lang=zh-cn",
+      "read": false
+    },
+    {
+      "id": "scbench",
+      "title": "SCBench: A KV Cache-Centric Analysis of Long-Context Methods",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/a540b17fb2295c736d5afd6c507acf66-Abstract-Conference.html",
+      "read": false
+    },
+    {
+      "id": "hymem",
+      "title": "HyMem: Hierarchical Context Management for Long-Horizon Agents via Information Isolation",
+      "url": "https://arxiv.org/abs/2608.15703",
+      "read": false
+    },
+    {
+      "id": "ttkv",
+      "title": "TTKV: Temporal-Tiered KV Cache for Long-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2604.19769",
+      "read": false
+    },
+    {
+      "id": "memgpt",
+      "title": "MemGPT: Towards LLMs as Operating Systems",
+      "url": "https://arxiv.org/abs/2310.08560",
+      "read": false
+    },
+    {
+      "id": "memorybank",
+      "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29946",
+      "read": false
+    },
+    {
+      "id": "a-mem",
+      "title": "A-MEM: Agentic Memory for LLM Agents",
+      "url": "https://arxiv.org/abs/2502.12110",
+      "read": false
+    },
+    {
+      "id": "mem0",
+      "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+      "url": "https://arxiv.org/abs/2504.19413",
+      "read": false
+    },
+    {
+      "id": "longmemeval",
+      "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/d813d324dbf0598bbdc9c8e79740ed01-Abstract-Conference.html",
+      "read": false
+    },
+    {
+      "id": "locomo",
+      "title": "Evaluating Very Long-Term Conversational Memory of LLM Agents (LoCoMo)",
+      "url": "https://aclanthology.org/2024.acl-long.747/",
+      "read": false
+    },
+    {
+      "id": "beam-light",
+      "title": "Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs (BEAM/LIGHT)",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/d7f0cfa0fe759b033d5262e1bb7d4065-Abstract-Conference.html",
+      "read": false
+    },
+    {
+      "id": "locomo-plus",
+      "title": "LoCoMo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents",
+      "url": "https://aclanthology.org/2026.acl-long.1150/",
+      "read": false
+    },
+    {
+      "id": "pancake",
+      "title": "Pancake: A Hierarchical Memory System for Multi-Agent LLM Serving",
+      "url": "https://arxiv.org/abs/2602.21477",
+      "read": false
+    },
+    {
+      "id": "agentboard",
+      "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/877b40688e330a0e2a3fc24084208dfa-Abstract-Datasets_and_Benchmarks_Track.html",
+      "read": false
+    },
+    {
+      "id": "lets-verify-step-by-step",
+      "title": "Let's Verify Step by Step",
+      "url": "https://arxiv.org/abs/2305.20050",
+      "read": false
+    },
+    {
+      "id": "processbench",
+      "title": "ProcessBench: Identifying Process Errors in Mathematical Reasoning",
+      "url": "https://aclanthology.org/2025.acl-long.50/",
+      "read": false
+    },
+    {
+      "id": "agentrewardbench",
+      "title": "AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories",
+      "url": "https://arxiv.org/abs/2504.08942",
+      "read": false
+    },
+    {
+      "id": "vpr",
+      "title": "Verifiable Process Rewards for Agentic Reasoning",
+      "url": "https://arxiv.org/abs/2605.10325",
+      "read": false
+    },
+    {
+      "id": "agentforesight",
+      "title": "AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2605.08715",
+      "read": false
+    },
+    {
+      "id": "prefixguard",
+      "title": "PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors",
+      "url": "https://arxiv.org/abs/2605.06455",
+      "read": false
+    },
+    {
+      "id": "bagen",
+      "title": "BAGEN: Are LLM Agents Budget-Aware?",
+      "url": "https://arxiv.org/abs/2606.00198",
+      "read": false
+    },
+    {
+      "id": "trajad",
+      "title": "TrajAD: Trajectory Anomaly Detection for Trustworthy LLM Agents",
+      "url": "https://arxiv.org/abs/2602.06443",
+      "read": false
+    },
+    {
+      "id": "liveplan",
+      "title": "Online Monitoring and Corrective Steering of Programming Agents (LivePlan)",
+      "url": "https://arxiv.org/abs/2608.06701",
+      "read": false
+    },
+    {
+      "id": "swe-rl",
+      "title": "SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution",
+      "url": "https://mlanthology.org/neurips/2025/wei2025neurips-swerl/",
+      "read": false
+    },
+    {
+      "id": "agent-lightning",
+      "title": "Agent Lightning: Train ANY AI Agents with Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2508.03680",
+      "read": false
+    },
+    {
+      "id": "adas",
+      "title": "Automated Design of Agentic Systems (ADAS)",
+      "url": "https://arxiv.org/abs/2408.08435",
+      "read": false
+    },
+    {
+      "id": "agentsquare",
+      "title": "AgentSquare: Automatic LLM Agent Search in Modular Design Space",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/0ae94013da7cd459402fd77874e09ee3-Abstract-Conference.html",
+      "read": false
+    },
+    {
+      "id": "aflow",
+      "title": "AFlow: Automating Agentic Workflow Generation",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5492ecbce4439401798dcd2c90be94cd-Abstract-Conference.html",
+      "read": false
+    },
+    {
+      "id": "shaper",
+      "title": "Self-Evolving Embodied Agents via Skill-Harness Evolution (SHAPER)",
+      "url": "https://arxiv.org/abs/2608.11350",
+      "read": false
+    },
+    {
+      "id": "self-harness",
+      "title": "Self-Harness: Harnesses That Improve Themselves",
+      "url": "https://arxiv.org/abs/2606.09498",
+      "read": false
+    },
+    {
+      "id": "harness-evolve",
+      "title": "HarnessEvolve: Learning from Reference Trajectories for Reliable Agent Self-Evolution",
+      "url": "https://arxiv.org/abs/2609.00829",
+      "read": false
+    }
+  ],
+  "nodes": [
+    {
+      "id": "f0-1",
+      "title": "Reason–Act–Observe",
+      "resources": [
+        "react",
+        "voyager"
+      ]
+    },
+    {
+      "id": "f0-2",
+      "title": "Tool Use / Tool Selection",
+      "resources": [
+        "toolformer",
+        "tau-bench"
+      ]
+    },
+    {
+      "id": "f0-3",
+      "title": "Reflection / Retry",
+      "resources": [
+        "reflexion",
+        "self-refine"
+      ]
+    },
+    {
+      "id": "f0-4",
+      "title": "Planning / Trajectory Search",
+      "resources": [
+        "tree-of-thoughts"
+      ]
+    },
+    {
+      "id": "f0-5",
+      "title": "Interactive Agent Benchmarks",
+      "resources": [
+        "agentbench",
+        "swe-bench",
+        "osworld"
+      ]
+    },
+    {
+      "id": "a1",
+      "title": "Container Isolation Primitives",
+      "resources": [
+        "sock"
+      ]
+    },
+    {
+      "id": "a2",
+      "title": "microVM Isolation",
+      "resources": [
+        "firecracker"
+      ]
+    },
+    {
+      "id": "a3",
+      "title": "Snapshot-based Fast Restore",
+      "resources": [
+        "seuss",
+        "crab"
+      ]
+    },
+    {
+      "id": "a4",
+      "title": "Snapshot Working-set Prefetch",
+      "resources": [
+        "reap"
+      ]
+    },
+    {
+      "id": "a5",
+      "title": "Resource Oversubscription / Memory Pooling",
+      "resources": [
+        "pond"
+      ]
+    },
+    {
+      "id": "a6",
+      "title": "Lightweight Shared Runtime State",
+      "resources": [
+        "faasm"
+      ]
+    },
+    {
+      "id": "a7",
+      "title": "Minimal Default Sandbox",
+      "resources": [
+        "sock",
+        "firecracker",
+        "reap"
+      ]
+    },
+    {
+      "id": "a8",
+      "title": "Task-conditioned Environment Prediction",
+      "resources": [
+        "pond",
+        "reap"
+      ]
+    },
+    {
+      "id": "a9",
+      "title": "Capability Hot-plug",
+      "resources": [
+        "car"
+      ]
+    },
+    {
+      "id": "a10",
+      "title": "Runtime Permission Escalation / Authorization",
+      "resources": [
+        "llm-security-principles",
+        "capability-gates"
+      ]
+    },
+    {
+      "id": "a11",
+      "title": "Environment CAS / Shared Dependency Store",
+      "resources": [
+        "sock",
+        "faasm"
+      ]
+    },
+    {
+      "id": "a12",
+      "title": "Multi-Agent Environment Sharing",
+      "resources": [
+        "storm"
+      ]
+    },
+    {
+      "id": "a13",
+      "title": "Agentic-RL Rollout Sandbox Farm",
+      "resources": [
+        "swe-gym",
+        "agentgym",
+        "prorl-agent"
+      ]
+    },
+    {
+      "id": "a14",
+      "title": "Speculative Sandbox Prewarm",
+      "resources": [
+        "specbox"
+      ]
+    },
+    {
+      "id": "b1",
+      "title": "Tool Planning & Scheduling",
+      "resources": [
+        "tps-bench"
+      ]
+    },
+    {
+      "id": "b2",
+      "title": "Tool Dependency DAG",
+      "resources": [
+        "tps-bench",
+        "paste"
+      ]
+    },
+    {
+      "id": "b3",
+      "title": "Asynchronous Tool Execution",
+      "resources": [
+        "async-tool-usage",
+        "asynctool"
+      ]
+    },
+    {
+      "id": "b4",
+      "title": "Speculative Actions",
+      "resources": [
+        "speculative-actions"
+      ]
+    },
+    {
+      "id": "b5",
+      "title": "Pattern-aware Speculative Tool Execution",
+      "resources": [
+        "paste"
+      ]
+    },
+    {
+      "id": "b6",
+      "title": "Multi-objective / Cost-aware Scheduling",
+      "resources": [
+        "speculative-actions",
+        "tps-bench"
+      ]
+    },
+    {
+      "id": "c1",
+      "title": "Prompt Compression",
+      "resources": [
+        "llmlingua",
+        "longllmlingua"
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Prefix KV Reuse",
+      "resources": [
+        "prompt-cache"
+      ]
+    },
+    {
+      "id": "c3",
+      "title": "Non-prefix Cache Fusion",
+      "resources": [
+        "cacheblend"
+      ]
+    },
+    {
+      "id": "c4",
+      "title": "KV Cache Compression / Eviction",
+      "resources": [
+        "snapkv",
+        "pyramidkv"
+      ]
+    },
+    {
+      "id": "c5",
+      "title": "Prefill Acceleration",
+      "resources": [
+        "minference"
+      ]
+    },
+    {
+      "id": "c6",
+      "title": "KV Cache Lifecycle Evaluation",
+      "resources": [
+        "scbench"
+      ]
+    },
+    {
+      "id": "c7",
+      "title": "Context Compaction × KV Reuse",
+      "resources": [
+        "llmlingua",
+        "prompt-cache",
+        "scbench"
+      ]
+    },
+    {
+      "id": "c8",
+      "title": "Multi-timescale Context",
+      "resources": [
+        "hymem"
+      ]
+    },
+    {
+      "id": "c9",
+      "title": "Context Placement",
+      "resources": [
+        "ttkv"
+      ]
+    },
+    {
+      "id": "d1",
+      "title": "Virtual / Hierarchical Memory",
+      "resources": [
+        "memgpt"
+      ]
+    },
+    {
+      "id": "d2",
+      "title": "Forgetting / Reinforcement",
+      "resources": [
+        "memorybank"
+      ]
+    },
+    {
+      "id": "d3",
+      "title": "Graph / Agentic Memory Organization",
+      "resources": [
+        "a-mem",
+        "mem0"
+      ]
+    },
+    {
+      "id": "d4",
+      "title": "Memory Pipeline Evaluation",
+      "resources": [
+        "longmemeval"
+      ]
+    },
+    {
+      "id": "d5",
+      "title": "Very Long-Term Conversational Memory",
+      "resources": [
+        "locomo",
+        "beam-light"
+      ]
+    },
+    {
+      "id": "d6",
+      "title": "Cognitive Memory: Keep in Mind, Not Notes",
+      "resources": [
+        "locomo-plus"
+      ]
+    },
+    {
+      "id": "d7",
+      "title": "Memory Quality / Utility-per-token",
+      "resources": [
+        "longmemeval",
+        "locomo-plus"
+      ]
+    },
+    {
+      "id": "d8",
+      "title": "Memory Placement / Tiering",
+      "resources": [
+        "memgpt",
+        "scbench",
+        "pancake"
+      ]
+    },
+    {
+      "id": "e1",
+      "title": "Trajectory Observability / Progress-rate Baseline",
+      "resources": [
+        "agentboard"
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "Outcome / Executable Verification",
+      "resources": [
+        "swe-bench",
+        "swe-gym"
+      ]
+    },
+    {
+      "id": "e3",
+      "title": "Process Supervision",
+      "resources": [
+        "lets-verify-step-by-step"
+      ]
+    },
+    {
+      "id": "e4",
+      "title": "Error Localization",
+      "resources": [
+        "processbench"
+      ]
+    },
+    {
+      "id": "e5",
+      "title": "Automatic Judge Reliability",
+      "resources": [
+        "agentrewardbench"
+      ]
+    },
+    {
+      "id": "e6",
+      "title": "Verifiable Process Rewards",
+      "resources": [
+        "vpr"
+      ]
+    },
+    {
+      "id": "e7",
+      "title": "Online Progress Posterior",
+      "resources": [
+        "agentboard",
+        "vpr",
+        "agentforesight"
+      ]
+    },
+    {
+      "id": "e8",
+      "title": "Progress ≠ Success Probability",
+      "resources": [
+        "agentforesight",
+        "prefixguard"
+      ]
+    },
+    {
+      "id": "e9",
+      "title": "Remaining-cost Prediction",
+      "resources": [
+        "bagen"
+      ]
+    },
+    {
+      "id": "e10",
+      "title": "Stuck / Loop / Low-efficiency Detection",
+      "resources": [
+        "trajad"
+      ]
+    },
+    {
+      "id": "e11",
+      "title": "Adaptive Verification Budget",
+      "resources": [
+        "agentrewardbench",
+        "vpr"
+      ]
+    },
+    {
+      "id": "e12",
+      "title": "Runtime Controller",
+      "resources": [
+        "liveplan"
+      ]
+    },
+    {
+      "id": "f1",
+      "title": "General Agent Evaluation",
+      "resources": [
+        "agentbench",
+        "agentboard"
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Agentic RL Environments",
+      "resources": [
+        "swe-gym",
+        "agentgym"
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Software Engineering RL",
+      "resources": [
+        "swe-rl"
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Training–Agent Execution Disaggregation",
+      "resources": [
+        "agent-lightning"
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Automated Agent Architecture Search",
+      "resources": [
+        "adas"
+      ]
+    },
+    {
+      "id": "f6",
+      "title": "Modular Agent Search",
+      "resources": [
+        "agentsquare"
+      ]
+    },
+    {
+      "id": "f7",
+      "title": "Workflow Search",
+      "resources": [
+        "aflow"
+      ]
+    },
+    {
+      "id": "f8",
+      "title": "Skill + Harness Evolution",
+      "resources": [
+        "shaper"
+      ]
+    },
+    {
+      "id": "f9",
+      "title": "Runtime-aware Harness Evolution",
+      "resources": [
+        "adas",
+        "agentsquare",
+        "shaper"
+      ]
+    },
+    {
+      "id": "f10",
+      "title": "Regression-gated Self-Evolution",
+      "resources": [
+        "self-harness",
+        "harness-evolve"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "a1",
+      "to": "a6"
+    },
+    {
+      "from": "a1",
+      "to": "a7"
+    },
+    {
+      "from": "a2",
+      "to": "a3"
+    },
+    {
+      "from": "a3",
+      "to": "a4"
+    },
+    {
+      "from": "a3",
+      "to": "a8"
+    },
+    {
+      "from": "a4",
+      "to": "a8"
+    },
+    {
+      "from": "a7",
+      "to": "a8"
+    },
+    {
+      "from": "a8",
+      "to": "a9"
+    },
+    {
+      "from": "a9",
+      "to": "a10"
+    },
+    {
+      "from": "a6",
+      "to": "a11"
+    },
+    {
+      "from": "a11",
+      "to": "a12"
+    },
+    {
+      "from": "a5",
+      "to": "a13"
+    },
+    {
+      "from": "a3",
+      "to": "a13"
+    },
+    {
+      "from": "a11",
+      "to": "a13"
+    },
+    {
+      "from": "b1",
+      "to": "b2"
+    },
+    {
+      "from": "b2",
+      "to": "b3"
+    },
+    {
+      "from": "b2",
+      "to": "b5"
+    },
+    {
+      "from": "b3",
+      "to": "b4"
+    },
+    {
+      "from": "b4",
+      "to": "b6"
+    },
+    {
+      "from": "b5",
+      "to": "b6"
+    },
+    {
+      "from": "c2",
+      "to": "c3"
+    },
+    {
+      "from": "c4",
+      "to": "c6"
+    },
+    {
+      "from": "c5",
+      "to": "c6"
+    },
+    {
+      "from": "c1",
+      "to": "c7"
+    },
+    {
+      "from": "c2",
+      "to": "c7"
+    },
+    {
+      "from": "c6",
+      "to": "c7"
+    },
+    {
+      "from": "c7",
+      "to": "c8"
+    },
+    {
+      "from": "c8",
+      "to": "c9"
+    },
+    {
+      "from": "d1",
+      "to": "d2"
+    },
+    {
+      "from": "d1",
+      "to": "d3"
+    },
+    {
+      "from": "d3",
+      "to": "d4"
+    },
+    {
+      "from": "d4",
+      "to": "d5"
+    },
+    {
+      "from": "d4",
+      "to": "d6"
+    },
+    {
+      "from": "d5",
+      "to": "d7"
+    },
+    {
+      "from": "d6",
+      "to": "d7"
+    },
+    {
+      "from": "d7",
+      "to": "d8"
+    },
+    {
+      "from": "e2",
+      "to": "e3"
+    },
+    {
+      "from": "e3",
+      "to": "e4"
+    },
+    {
+      "from": "e3",
+      "to": "e6"
+    },
+    {
+      "from": "e1",
+      "to": "e7"
+    },
+    {
+      "from": "e4",
+      "to": "e7"
+    },
+    {
+      "from": "e5",
+      "to": "e7"
+    },
+    {
+      "from": "e6",
+      "to": "e7"
+    },
+    {
+      "from": "e7",
+      "to": "e8"
+    },
+    {
+      "from": "e7",
+      "to": "e9"
+    },
+    {
+      "from": "e7",
+      "to": "e10"
+    },
+    {
+      "from": "e7",
+      "to": "e11"
+    },
+    {
+      "from": "e8",
+      "to": "e12"
+    },
+    {
+      "from": "e9",
+      "to": "e12"
+    },
+    {
+      "from": "e10",
+      "to": "e12"
+    },
+    {
+      "from": "e11",
+      "to": "e12"
+    },
+    {
+      "from": "f1",
+      "to": "f2"
+    },
+    {
+      "from": "f2",
+      "to": "f3"
+    },
+    {
+      "from": "f2",
+      "to": "f4"
+    },
+    {
+      "from": "f1",
+      "to": "f5"
+    },
+    {
+      "from": "f1",
+      "to": "f6"
+    },
+    {
+      "from": "f1",
+      "to": "f7"
+    },
+    {
+      "from": "f5",
+      "to": "f9"
+    },
+    {
+      "from": "f6",
+      "to": "f9"
+    },
+    {
+      "from": "f7",
+      "to": "f9"
+    },
+    {
+      "from": "f8",
+      "to": "f9"
+    },
+    {
+      "from": "f9",
+      "to": "f10"
+    },
+    {
+      "from": "a8",
+      "to": "a14"
+    },
+    {
+      "from": "b4",
+      "to": "a14"
+    },
+    {
+      "from": "b5",
+      "to": "a14"
+    }
+  ]
+}
